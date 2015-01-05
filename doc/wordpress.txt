@@ -1,0 +1,12 @@
+[mathjax]
+
+This project is intended to be a space to investigate different sequences.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/sequences">Live page</a>
+<a href="https://github.com/aidansean/sequences">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This is a work in progress, with much more space for much more development at a later date.  The user can change some settings to generate different sequences.  The only reason the project is so small is lack of time and interest to devote to it.
